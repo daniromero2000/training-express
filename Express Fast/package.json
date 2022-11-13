@@ -1,0 +1,26 @@
+{
+  "name": "express-course",
+  "version": "1.0.0",
+  "description": "This is a course for the mvc framework for Node.js, Express.js",
+  "main": "hello-world.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "ejs": "^2.5.7",
+    "express": "^4.18.1",
+    "morgan": "^1.8.2",
+    "pug": "^2.0.0-rc.4"
+  }
+}
